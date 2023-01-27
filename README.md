@@ -6,9 +6,7 @@
 </a>
 <img src="https://img.shields.io/badge/📅2023/01/25-333333?style=for-the-badge">
 <!-- Color Palette for Session Status: https://www.color-hex.com/color-palette/35021 -->
-<img src="https://img.shields.io/badge/⌛0/0%20|%200/0-99c140?style=for-the-badge"> 
-<!-- <img src="https://img.shields.io/badge/⌛0/0%20|%200/0-e7b416?style=for-the-badge"> -->
-<!-- <img src="https://img.shields.io/badge/⌛0/0%20|%200/0-cc3232?style=for-the-badge"> -->
+<img src="https://img.shields.io/badge/⌛-99c140?style=for-the-badge"><!--<img src="https://img.shields.io/badge/⌛-e7b416?style=for-the-badge"><img src="https://img.shields.io/badge/⌛-cc3232?style=for-the-badge">--><img src="https://img.shields.io/badge/0/0%20|%200/0-333333?style=for-the-badge">
 </div>
 
 <a href="https://github.com/nejilabs">
@@ -17,9 +15,11 @@
 
 <div align="center">
 
+<h1>
 <a href="https://github.com/nejilabs/nnist-pt-20230125/issues/1">
-<h1>nnist-pt-20230125</h1>
+nnist-pt-20230125
 </a>
+</h1>
 
 ### Nejilabs NIST Project Template
 
