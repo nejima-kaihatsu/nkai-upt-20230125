@@ -2,7 +2,7 @@
 name: "\U0001F4D4 Cover README (Sample)"
 about: Sample of the Project README.md cover of the project also showing project information,
   description, and notes from project cover and chapter issues.
-title: "\U0001F4D4 nnist-pt-20230125 Cover README.md"
+title: "\U0001F4D4 nnist-pt-20230125 Cover README (Sample)"
 labels: documentation
 assignees: newojima
 
