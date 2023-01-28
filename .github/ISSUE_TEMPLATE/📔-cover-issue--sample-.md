@@ -1,8 +1,8 @@
 ---
-name: "\U0001F4D4 Cover Issue"
-about: Project Documentation Tracker Issue serving as the cover page of the project
-  showing project information, description, and contents (chapters).
-title: "\U0001F4D4 nnist-pt-20230125"
+name: "\U0001F4D4 Cover Issue (Sample)"
+about: Sample of the Project Documentation Tracker Issue serving as the cover of the
+  project containing information, description, and contents (chapters) of the project.
+title: "\U0001F4D4 nnist-pt-20230125 Cover Issue"
 labels: documentation
 assignees: newojima
 

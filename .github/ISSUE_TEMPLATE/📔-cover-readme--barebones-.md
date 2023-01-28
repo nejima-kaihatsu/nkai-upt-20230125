@@ -1,9 +1,8 @@
 ---
-name: "\U0001F4D4 Cover Issue (Barebones)"
-about: Barebones version of the Project Documentation Tracker Issue serving as the
-  cover of the project containing information, description, and contents (chapters)
-  of the project.
-title: "\U0001F4D4 Cover Issue (Barebones)"
+name: "\U0001F4D4 Cover README (Barebones)"
+about: Barebones version of the Project README.md cover of the project also showing
+  project information, description, and notes from project cover and chapter issues.
+title: "\U0001F4D4 Cover README.md (Barebones)"
 labels: documentation
 assignees: newojima
 
@@ -56,9 +55,28 @@ assignees: newojima
 
 ---
 
-<!-- START: PROJECT CONTENTS //////////////////////////////////////// -->
-## Contents
+<!-- START: PROJECT NOTES //////////////////////////////////////// -->
+<!-- Start: Table of Contents -->
+<details>
+<summary><b>Table of Contents</b></summary>
 
-- [ ] owo
+Coming Soon ...
 
-<!-- END: PROJECT CONTENTS //////////////////////////////////////// -->
+</details>
+<!-- End: Table of Contents -->
+
+---
+<!-- Start: Notes --> 
+# Coming Soon ...
+<!-- End: Notes -->
+---
+
+<!-- Start: Table of Contents -->
+<details>
+<summary><b>Table of Contents</b></summary>
+
+Coming Soon ...
+
+</details>
+<!-- End: Table of Contents -->
+<!-- END: PROJECT NOTES //////////////////////////////////////// -->
