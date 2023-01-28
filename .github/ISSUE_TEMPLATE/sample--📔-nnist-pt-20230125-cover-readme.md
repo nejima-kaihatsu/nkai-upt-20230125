@@ -1,5 +1,5 @@
 ---
-name: "\U0001F4D4 Sample: nnist-pt-20230125 Cover README"
+name: "Sample: \U0001F4D4 nnist-pt-20230125 Cover README"
 about: Sample of the Project README.md cover of the project also showing project information,
   description, and notes from project cover and chapter issues.
 title: "\U0001F4D4 nnist-pt-20230125 (Sample Cover README)"

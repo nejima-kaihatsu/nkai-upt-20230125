@@ -1,5 +1,5 @@
 ---
-name: 'Other: ✨ Feature Request'
+name: 'General: ✨ Feature Request'
 about: Enhancement Feature Request Issue
 title: "✨ FEAT: "
 labels: enhancement
