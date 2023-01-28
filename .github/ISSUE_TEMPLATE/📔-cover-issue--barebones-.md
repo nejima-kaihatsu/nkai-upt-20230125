@@ -18,7 +18,7 @@ assignees: newojima
 <!-- End: Author -->
 <!-- Start: Date -->
 <img src="https://img.shields.io/badge/📅2023/00/00-333333?style=for-the-badge">
-<!-- End: Dare -->
+<!-- End: Date -->
 <!-- Start: Timestamp -->
 <!-- Color Palette: https://www.color-hex.com/color-palette/35021 -->
 <img src="https://img.shields.io/badge/⌛-99c140?style=for-the-badge"><!--<img src="https://img.shields.io/badge/⌛-e7b416?style=for-the-badge"><img src="https://img.shields.io/badge/⌛-cc3232?style=for-the-badge">--><img src="https://img.shields.io/badge/0/0%20|%200/0-333333?style=for-the-badge">

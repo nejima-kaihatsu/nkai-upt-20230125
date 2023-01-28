@@ -1,41 +1,45 @@
 ---
 name: "\U0001F4D4 Cover Issue"
-about: Documentation Tracker Issue serving as the cover page of the project to showcase
-  project information, as well as the contents / todos tasks (Chapters).
+about: Project Documentation Tracker Issue serving as the cover page of the project
+  showing project information, description, and contents (chapters).
 title: "\U0001F4D4 nnist-pt-20230125"
 labels: documentation
 assignees: newojima
 
 ---
 
+<!-- START: PROJECT INFORMATION //////////////////////////////////////// -->
 <div width="100%" align="center">
-<a href="https://github.com/nejilabs">
-<img src="https://img.shields.io/badge/🔗Link-333333?style=for-the-badge"/></a>
-<a href="https://github.com/newojima">
-<img src="https://img.shields.io/badge/🖊️@nejilabs-333333?style=for-the-badge">
-</a>
+<!-- Start: Link -->
+<a href="https://github.com/nejilabs"><img src="https://img.shields.io/badge/🔗Link-333333?style=for-the-badge"/></a>
+<!-- End: Link -->
+<!-- Start: Author -->
+<a href="https://github.com/nejilabs"><img src="https://img.shields.io/badge/👤@nejilabs-333333?style=for-the-badge"></a>
+<!-- End: Author -->
+<!-- Start: Date -->
 <img src="https://img.shields.io/badge/📅2023/01/25-333333?style=for-the-badge">
-<!-- Color Palette for Session Status: https://www.color-hex.com/color-palette/35021 -->
+<!-- End: Date -->
+<!-- Start: Timestamp -->
+<!-- Color Palette: https://www.color-hex.com/color-palette/35021 -->
 <img src="https://img.shields.io/badge/⌛-99c140?style=for-the-badge"><!--<img src="https://img.shields.io/badge/⌛-e7b416?style=for-the-badge"><img src="https://img.shields.io/badge/⌛-cc3232?style=for-the-badge">--><img src="https://img.shields.io/badge/0/0%20|%200/0-333333?style=for-the-badge">
-</div>
+<!-- End: Timestamp -->
 
-<a href="https://github.com/nejilabs">
-<img src="https://user-images.githubusercontent.com/31657420/214573139-256234ca-bd0b-4e27-b373-c090a37825f5.png" width="100%" />
-</a>
+<!-- Start: Thumbnail -->
+<a href="https://github.com/nejilabs"><img src="https://user-images.githubusercontent.com/31657420/214573139-256234ca-bd0b-4e27-b373-c090a37825f5.png" width="100%" /></a>
+<!-- End: Thumbnail -->
 
-<div align="center">
+<!-- Start: Project Name -->
+<h1><a href="https://github.com/nejilabs/nnist-pt-20230125/issues/1">nnist-pt-20230125</a></h1>
+<!-- End: Project Name -->
 
-<h1>
-<a href="https://github.com/nejilabs/nnist-pt-20230125/issues/1">
-nnist-pt-20230125
-</a>
-</h1>
-
-### Nejilabs NIST Project Template
+<!-- Start: Project Title -->
+<h3> Nejilabs NIST Project Template </h3>
+<!-- End: Project Title -->
 
 </div>
+<!-- END: PROJECT INFORMATION //////////////////////////////////////// -->
 
-
+<!-- START: PROJECT DESCRIPTION //////////////////////////////////////// -->
 <div align="left"> 
 <details>
 <summary> 
@@ -46,12 +50,17 @@ nnist-pt-20230125
 <br/>
 
 Commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Arcu dictum varius duis at consectetur lorem. Lobortis feugiat vivamus at augue eget arcu. A erat nam at lectus urna. Neque gravida in fermentum et sollicitudin ac orci phasellus. Lorem ipsum dolor sit amet consectetur adipiscing. Aenean pharetra magna ac placerat. Amet tellus cras adipiscing enim eu turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel facilisis. Volutpat diam ut venenatis tellus in metus vulputate.
+
 </details>
+<!-- END: PROJECT DESCRIPTION //////////////////////////////////////// -->
 
 ---
 
+<!-- START: PROJECT CONTENTS //////////////////////////////////////// -->
 ## Contents
 
 - [ ] 0 - Chapter 1
 - [ ] 1 - Chapter 2
 - [ ] 2 - Chapter 3
+
+<!-- END: PROJECT CONTENTS //////////////////////////////////////// -->
