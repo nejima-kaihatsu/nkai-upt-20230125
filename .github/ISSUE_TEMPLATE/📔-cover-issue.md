@@ -1,9 +1,9 @@
 ---
-name: "\U0001F4D4 Cover Issue (Barebones)"
+name: "\U0001F4D4 Cover Issue"
 about: Barebones version of the Project Documentation Tracker Issue serving as the
   cover of the project containing information, description, and contents (chapters)
   of the project.
-title: "\U0001F4D4 Cover Issue (Barebones)"
+title: "\U0001F4D4 <name-of-repo>"
 labels: documentation
 assignees: newojima
 

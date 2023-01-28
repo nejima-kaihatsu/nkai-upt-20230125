@@ -1,5 +1,5 @@
 ---
-name: "\U0001F500 Pull Request (Barebones)"
+name: "\U0001F500 Pull Request"
 about: Pull Request Template with a Guardian Ugandan Knuckles for reminders, etc.
 title: "\U0001F500 Name of Issue #0"
 labels: enhancement

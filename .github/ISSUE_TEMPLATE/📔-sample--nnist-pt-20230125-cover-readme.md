@@ -1,8 +1,8 @@
 ---
-name: "\U0001F4D4 Cover Issue (Sample)"
-about: Sample of the Project Documentation Tracker Issue serving as the cover of the
-  project containing information, description, and contents (chapters) of the project.
-title: "\U0001F4D4 nnist-pt-20230125 Cover Issue (Sample)"
+name: "\U0001F4D4 Sample: nnist-pt-20230125 Cover README"
+about: Sample of the Project README.md cover of the project also showing project information,
+  description, and notes from project cover and chapter issues.
+title: "\U0001F4D4 nnist-pt-20230125 (Sample Cover README)"
 labels: documentation
 assignees: newojima
 
@@ -56,11 +56,28 @@ Commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend do
 
 ---
 
-<!-- START: PROJECT CONTENTS //////////////////////////////////////// -->
-## Contents
+<!-- START: PROJECT NOTES //////////////////////////////////////// -->
+<!-- Start: Table of Contents -->
+<details>
+<summary><b>Table of Contents</b></summary>
 
-- [ ] 0 - Chapter 1
-- [ ] 1 - Chapter 2
-- [ ] 2 - Chapter 3
+Coming Soon ...
 
-<!-- END: PROJECT CONTENTS //////////////////////////////////////// -->
+</details>
+<!-- End: Table of Contents -->
+
+---
+<!-- Start: Notes --> 
+# Coming Soon ...
+<!-- End: Notes -->
+---
+
+<!-- Start: Table of Contents -->
+<details>
+<summary><b>Table of Contents</b></summary>
+
+Coming Soon ...
+
+</details>
+<!-- End: Table of Contents -->
+<!-- END: PROJECT NOTES //////////////////////////////////////// -->

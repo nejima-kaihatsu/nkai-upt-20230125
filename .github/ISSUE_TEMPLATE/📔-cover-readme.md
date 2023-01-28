@@ -1,8 +1,8 @@
 ---
-name: "\U0001F4D4 Cover README (Barebones)"
+name: "\U0001F4D4 Cover README"
 about: Barebones version of the Project README.md cover of the project also showing
   project information, description, and notes from project cover and chapter issues.
-title: "\U0001F4D4 Cover README (Barebones)"
+title: "\U0001F4D4 <name-of-repo> | README.md"
 labels: documentation
 assignees: newojima
 
