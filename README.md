@@ -8,13 +8,12 @@
 <!-- End: Author -->
 <!-- Start: Date -->
 <img src="https://img.shields.io/badge/📅2023/01/25-333333?style=for-the-badge">
+<!-- End: Date -->
+<!-- Start: Status -->
 <!-- Color Palette: https://www.color-hex.com/color-palette/35021 | 99c140, e7b416, cc3232 -->
 <img src="https://img.shields.io/badge/⌛-e7b416?style=for-the-badge"><img src="https://img.shields.io/badge/In%20Progress-333333?style=for-the-badge">
+<!-- End: Status -->
 </div>
-
-<a href="https://github.com/nejilabs">
-<img src="https://user-images.githubusercontent.com/31657420/214573139-256234ca-bd0b-4e27-b373-c090a37825f5.png" width="100%" />
-</a>
 
 <!-- Start: Thumbnail -->
 <a href="https://github.com/nejilabs"><img src="https://user-images.githubusercontent.com/31657420/214573139-256234ca-bd0b-4e27-b373-c090a37825f5.png" width="100%" /></a>
