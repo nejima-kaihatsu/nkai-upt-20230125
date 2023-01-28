@@ -5,8 +5,8 @@
 <img src="https://img.shields.io/badge/🖊️@nejilabs-333333?style=for-the-badge">
 </a>
 <img src="https://img.shields.io/badge/📅2023/01/25-333333?style=for-the-badge">
-<!-- Color Palette for Session Status: https://www.color-hex.com/color-palette/35021 -->
-<img src="https://img.shields.io/badge/⌛-99c140?style=for-the-badge"><!--<img src="https://img.shields.io/badge/⌛-e7b416?style=for-the-badge"><img src="https://img.shields.io/badge/⌛-cc3232?style=for-the-badge">--><img src="https://img.shields.io/badge/0/0%20|%200/0-333333?style=for-the-badge">
+<!-- Color Palette: https://www.color-hex.com/color-palette/35021 | 99c140, e7b416, cc3232 -->
+<img src="https://img.shields.io/badge/⌛-e7b416?style=for-the-badge"><img src="https://img.shields.io/badge/In%20Progress-333333?style=for-the-badge">
 </div>
 
 <a href="https://github.com/nejilabs">
