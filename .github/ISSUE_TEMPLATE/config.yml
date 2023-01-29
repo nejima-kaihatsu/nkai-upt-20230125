@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.com/orgs/community/discussions
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+  - name: NEJILABS | 根島総合研究機構（Nejima Research Organisation）
+    url: https://github.com/nejilabs
+    about: Group of research lab institutes focusing on different grounds of developmental knowledge | Create new innovations & studies for Nejima & Co. Development, Ltd.
