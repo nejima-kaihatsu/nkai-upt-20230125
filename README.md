@@ -15,7 +15,7 @@
 <!-- End: Status -->
 
 <!-- Start: Thumbnail -->
-<a href="https://github.com/nejilabs"><img src="https://user-images.githubusercontent.com/31657420/214573139-256234ca-bd0b-4e27-b373-c090a37825f5.png" width="100%" /></a>
+<a href="https://github.com/nejilabs"><img src="@../../.github/assets/thumbnail-template.png" width="100%" /></a>
 <!-- End: Thumbnail -->
 
 <!-- Start: Project Name -->
