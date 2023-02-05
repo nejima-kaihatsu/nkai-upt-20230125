@@ -7,14 +7,12 @@ assignees: newojima
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+<div align="center" width="100%">
+<div><img src="https://media.tenor.com/gD9lMFUMUUIAAAAC/luffy-one-piece.gif" width="350px" /></div><i>:sparkles: What is ya feature request? :sparkles:</i>
+</div>
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+### :sparkles: Description 説明 | せつめい
+...
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### :books: References 書誌 | しょし
+- reference1
