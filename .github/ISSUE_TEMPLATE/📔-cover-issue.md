@@ -83,11 +83,4 @@ Coming Soon ...
 <!-- Start: Notes --> 
 # Coming Soon ...
 <!-- End: Notes -->
----
-
-<!-- Start: Table of Contents -->
-<details><summary><b>Table of Contents</b></summary>
-Coming Soon ...
-</details>
-<!-- End: Table of Contents -->
 <!-- END: PROJECT NOTES //////////////////////////////////////// -->
