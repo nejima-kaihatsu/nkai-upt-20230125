@@ -21,7 +21,7 @@
 <!-- Project Description --><details open>
 <summary><b>Description:</b> Nejilabs NIST Project Template used to generate NIST projects along with a standardised design for README.md notes, issues and pull request templates.</summary><br/>
 
-In the long term, after we further develop and perfected this project template in Nejilabs, we then move thi project template repo to https://github.com/nejima-kaihatsu (parent). 
+In the long term, after we further develop and perfected this project template in Nejilabs, we then move this project template repo to https://github.com/nejima-kaihatsu (parent). 
 
 We then develop that repo to be known as the "Universal Project Template", where it shall dictate the standards and stuff of what projects under the Nejima Group should have (issue & pr templates, common actions and workflows, etc.).
 
