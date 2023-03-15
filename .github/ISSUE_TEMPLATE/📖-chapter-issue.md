@@ -8,4 +8,12 @@ assignees: newojima
 
 ---
 
-Timestamp: 0 / 0 - ( 0 / 0 )
+<div align="center">
+  <a href=""><img src="https://img.shields.io/badge/🏠-333333?style=for-the-badge"></a>
+  <a href=""><img src="https://img.shields.io/badge/⬅️%20Back-333333?style=for-the-badge"></a>
+  <a href=""><img src="https://img.shields.io/badge/Next%20➡️-333333?style=for-the-badge"></a>
+
+  ### Timestamp: 0 / 0 - ( 0 / 0 )
+</div>
+
+
